@@ -18,9 +18,13 @@
         "func-names": "off",
         "prefer-destructuring": "off",
         "no-multiple-empty-lines": "off",
-        "consistent-return": "off",
+        "consistent-return": "warn",
         "no-alert": "off",
         "padded-blocks": "off",
-        "no-use-before-define": "off"
+        "no-use-before-define": "off",
+        "radix": "off",
+        "max-classes-per-file": "off",
+        "no-plusplus": "off",
+        "no-restricted-syntax": "off"
     }
 }
